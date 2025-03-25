@@ -1,22 +1,29 @@
-DAX Basics Guide
+
+# DAX Basics Guide
+
 This repository provides an in-depth guide to Data Analysis Expressions (DAX), covering fundamental concepts, key functions, and real-life use cases in Power BI. Whether you're a beginner or looking to enhance your DAX skills, this guide will help you understand calculated columns, measures, implicit vs. explicit measures, and their practical applications.
 
-Contents
-Calculated Columns: Row-level calculations stored in the dataset.
+## Contents
 
-Measures: Dynamic calculations based on filters and slicers.
+* Calculated Columns: Row-level calculations stored in the dataset.
 
-Implicit vs. Explicit Measures: Differences, use cases, and performance impact.
+* Measures: Dynamic calculations based on filters and  slicers.
 
-Use Cases & Best Practices: When to use calculated columns vs. measures.
+* Implicit vs. Explicit Measures: Differences, use cases, and performance impact.
 
-Key Features
-Real-life Examples for better understanding.
-Performance Considerations for optimized DAX usage.
-Comparison Tables to differentiate key concepts.
-Practical Use Cases for real-world scenarios.
-Getting Started
+* Use Cases & Best Practices: When to use calculated columns vs. measures.
+  
+## Key Features
+
+* Real-life Examples for better understanding.
+* Performance Considerations for optimized DAX usage.
+* Comparison Tables to differentiate key concepts.
+* Practical Use Cases for real-world scenarios.
+
+## Getting Started
+
 This repository is best suited for those working with Power BI, data modeling, and financial analytics. Download the guide and explore the examples to master DAX efficiently.
 
-Contributions
+## Contributions
+
 Feel free to contribute by sharing additional insights or improving documentation!
